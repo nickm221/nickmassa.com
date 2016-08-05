@@ -776,13 +776,6 @@ footer {
       position: absolute;
       top: 0;
       left: 0; }
-    .about-lock .front {
-      z-index: 2;
-      -webkit-transform: rotateY(0deg);
-              transform: rotateY(0deg); }
-    .about-lock .back {
-      -webkit-transform: rotateY(180deg);
-              transform: rotateY(180deg); }
     .about-lock .flaticon-cogwheel28 {
       display: none; }
     .about-lock .flaticon-computer1 {
@@ -859,8 +852,6 @@ footer {
       font-size: 60px;
       line-height: 70px;
       color: #303e49;
-      -webkit-transition: all 0.15s ease-out 0s;
-      transition: all 0.15s ease-out 0s;
       margin-left: 0; } }
 
 @media only screen and (min-width: 1070px) {
