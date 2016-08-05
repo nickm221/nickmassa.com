@@ -762,10 +762,6 @@ footer {
       width: 200px;
       border-radius: 50%; }
     .about-lock .flipper {
-      -webkit-transition: 0.6s;
-              transition: 0.6s;
-      -webkit-transform-style: preserve-3d;
-              transform-style: preserve-3d;
       position: relative; }
     .about-lock .front, .about-lock .back {
       -webkit-backface-visibility: hidden;
@@ -841,9 +837,6 @@ footer {
       order: 5;
       -ms-flex-order: 5;
       display: block; }
-    .about-lock .glyph-icon:hover {
-      -webkit-transform: scale(1.2);
-      transform: scale(1.2); }
     .about-lock .glyph-icon:before {
       display: block;
       font-size: 60px;
