@@ -757,9 +757,6 @@ footer {
       -moz-order: 3;
       order: 3;
       -ms-flex-order: 3; }
-      .about-lock .flip-container:hover .flipper, .about-lock .flip-container.hover .flipper {
-        -webkit-transform: rotateY(180deg);
-                transform: rotateY(180deg); }
     .about-lock .front, .about-lock .back {
       height: 200px;
       width: 200px;
