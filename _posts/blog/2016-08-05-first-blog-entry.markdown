@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This is My First Blog Entry"
-date:   2016-08-5 12:05 am
+date:   2016-08-05 12:05:11 am
 categories: blog
 ---
 
