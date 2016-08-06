@@ -1298,8 +1298,8 @@ form {
     max-width: 270px;
     margin: 0 auto;
     font-size: 22px; }
-  .post-wrapper h2#blog {
-    padding:10px 0px 0px;
+  h2.last {
+    padding:0px 0px 30px;
   }
   .honeycombpic {
     width: 800px;
