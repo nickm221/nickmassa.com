@@ -1,11 +1,10 @@
+Personal Website
 =============================
-Sleek Blog
-=============================
 
-[Live Website](http://gearoidoconnor.ie)
+[Live Website](http://nickmassa.net)
 
 
-A blog project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer &amp; BrowserSync
+Personal website project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer &amp; BrowserSync
 
 
 ## System Preparation
